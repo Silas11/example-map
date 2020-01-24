@@ -23,28 +23,28 @@ L.Control.geocoder({ collapsed: false }).addTo(mymap);
 
 // Icon for the Markers
 var markerIcon = L.icon({
-    iconUrl: 'newPin.png',
+    iconUrl: 'C:\Users\KUHNS1\Desktop\Praktikum\Silas11.github.io\marker\newPin.png',
     iconSize: [20, 20],
     iconAnchor: [10, 20],
     popupAnchor: [-3, -76], 
 });
 
 var countryIcon = L.icon({
-    iconUrl: 'countryPin.png',
+    iconUrl: 'C:\Users\KUHNS1\Desktop\Praktikum\Silas11.github.io\marker\countryPin.png',
     iconSize: [20, 20],
     iconAnchor: [8, 20],
     popupAnchor: [-3, -76], 
 });
 
 var myPositionIcon = L.icon({
-    iconUrl: 'myPosition.png',
+    iconUrl: 'C:\Users\KUHNS1\Desktop\Praktikum\Silas11.github.io\marker\myPosition.png',
     iconSize: [25, 25],
     iconAnchor: [17, 17],
     popupAnchor: [-3, -76], 
 });
 
 var emptyIcon = L.icon({
-    iconUrl: 'leer.png',
+    iconUrl: 'C:\Users\KUHNS1\Desktop\Praktikum\Silas11.github.io\marker\leer.png',
     iconSize: [25, 25],
     iconAnchor: [17, 17],
     popupAnchor: [-3, -76], 
