@@ -1,0 +1,22 @@
+t  a  s  k  s  :                                                            d  o  n  e   :
+
+
+- Karte einfügen > Leaflet                                                  +                                                     
+- Größe anpassen                                                            + 
+- Marker plazieren                                                          +     
+- Icon vom Marker ändern                                                    +    
+- Butten für Geolocation einfügen                                           +       
+- diese Daten als Variable speichern                                        +
+    1. in Marker einsetzen                          	                    +
+- SideBar einfügen und anderen Elemente dementsprechend anorednen           +
+- Elemente der SideBar "einrichten" (eigene html-Seite erstellen)           +
+    2. in die Koordinaten für die Kartenansicht einsetzen > funktion        !
+- Suchfunktion für die Karte einbauen                                       !
+- Liste mit zuletzt gesuchten Orten                                         !
+- Button, im einen Ort als Favorit zu speichern                             !
+- 2, 3, usw. Marker setzen                                                  !
+
+
+
++ = done
+! = in progress / not done
